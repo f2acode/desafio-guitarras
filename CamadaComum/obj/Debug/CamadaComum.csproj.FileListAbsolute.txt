@@ -1,0 +1,12 @@
+C:\projects\desafio\dotnet\CamadaComum\bin\Debug\CamadaComum.dll
+C:\projects\desafio\dotnet\CamadaComum\bin\Debug\CamadaComum.pdb
+C:\projects\desafio\dotnet\CamadaComum\obj\Debug\CamadaComum.csprojResolveAssemblyReference.cache
+C:\projects\desafio\dotnet\CamadaComum\obj\Debug\CamadaComum.dll
+C:\projects\desafio\dotnet\CamadaComum\obj\Debug\CamadaComum.pdb
+C:\projects\desafio\dotnet\CamadaComum\bin\Debug\Newtonsoft.Json.dll
+C:\projects\desafio\dotnet\CamadaComum\bin\Debug\System.Net.Http.Formatting.dll
+C:\projects\desafio\dotnet\CamadaComum\bin\Debug\System.Web.Http.dll
+C:\projects\desafio\dotnet\CamadaComum\bin\Debug\Newtonsoft.Json.xml
+C:\projects\desafio\dotnet\CamadaComum\bin\Debug\System.Net.Http.Formatting.xml
+C:\projects\desafio\dotnet\CamadaComum\bin\Debug\System.Web.Http.xml
+C:\projects\desafio\dotnet\CamadaComum\obj\Debug\CamadaComum.csproj.CoreCompileInputs.cache

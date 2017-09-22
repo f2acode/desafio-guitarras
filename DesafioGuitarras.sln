@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamadaAPI", "CamadaAPI\CamadaAPI.csproj", "{736D60C5-5AEF-4042-AB47-F3CC07C319D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamadaDados", "CamadaDados\CamadaDados.csproj", "{1C20F5C5-4966-4ADD-8A76-2E285FFA04D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamadaApresentacao", "CamadaApresentacao\CamadaApresentacao.csproj", "{CBF47F9F-B9A3-4CAE-9644-A2C2AD7937FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamadaComum", "CamadaComum\CamadaComum.csproj", "{F5FAE5FC-9647-4CCE-8817-9E5B63682CA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{736D60C5-5AEF-4042-AB47-F3CC07C319D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{736D60C5-5AEF-4042-AB47-F3CC07C319D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{736D60C5-5AEF-4042-AB47-F3CC07C319D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{736D60C5-5AEF-4042-AB47-F3CC07C319D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C20F5C5-4966-4ADD-8A76-2E285FFA04D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C20F5C5-4966-4ADD-8A76-2E285FFA04D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C20F5C5-4966-4ADD-8A76-2E285FFA04D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C20F5C5-4966-4ADD-8A76-2E285FFA04D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBF47F9F-B9A3-4CAE-9644-A2C2AD7937FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF47F9F-B9A3-4CAE-9644-A2C2AD7937FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF47F9F-B9A3-4CAE-9644-A2C2AD7937FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF47F9F-B9A3-4CAE-9644-A2C2AD7937FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5FAE5FC-9647-4CCE-8817-9E5B63682CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5FAE5FC-9647-4CCE-8817-9E5B63682CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5FAE5FC-9647-4CCE-8817-9E5B63682CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5FAE5FC-9647-4CCE-8817-9E5B63682CA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
