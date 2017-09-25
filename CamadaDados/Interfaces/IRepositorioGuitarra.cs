@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CamadaDados.Interfaces
+namespace CamadaDados
 {
     public interface IRepositorioGuitarra
     {

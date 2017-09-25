@@ -245,3 +245,10 @@ C:\projects\desafio\CamadaApresentacao\obj\Debug\CamadaApresentacao.csprojResolv
 C:\projects\desafio\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.CoreCompileInputs.cache
 C:\projects\desafio\CamadaApresentacao\obj\Debug\CamadaApresentacao.dll
 C:\projects\desafio\CamadaApresentacao\obj\Debug\CamadaApresentacao.pdb
+C:\projects\desafio\CamadaApresentacao\bin\StructureMap.dll
+C:\projects\desafio\CamadaApresentacao\bin\Microsoft.Practices.ServiceLocation.dll
+C:\projects\desafio\CamadaApresentacao\bin\StructureMap.Net4.dll
+C:\projects\desafio\CamadaApresentacao\bin\StructureMap.pdb
+C:\projects\desafio\CamadaApresentacao\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\projects\desafio\CamadaApresentacao\bin\Microsoft.Practices.ServiceLocation.xml
+C:\projects\desafio\CamadaApresentacao\bin\StructureMap.Net4.pdb

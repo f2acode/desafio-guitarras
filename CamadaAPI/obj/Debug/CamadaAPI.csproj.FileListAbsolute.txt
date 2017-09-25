@@ -109,3 +109,12 @@ C:\projects\desafio\CamadaAPI\obj\Debug\CamadaAPI.csprojResolveAssemblyReference
 C:\projects\desafio\CamadaAPI\obj\Debug\CamadaAPI.csproj.CoreCompileInputs.cache
 C:\projects\desafio\CamadaAPI\obj\Debug\CamadaAPI.dll
 C:\projects\desafio\CamadaAPI\obj\Debug\CamadaAPI.pdb
+C:\projects\desafio\CamadaAPI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\projects\desafio\CamadaAPI\bin\StructureMap.dll
+C:\projects\desafio\CamadaAPI\bin\StructureMap.Net4.dll
+C:\projects\desafio\CamadaAPI\bin\StructureMap.Web.dll
+C:\projects\desafio\CamadaAPI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\projects\desafio\CamadaAPI\bin\Microsoft.Practices.ServiceLocation.xml
+C:\projects\desafio\CamadaAPI\bin\StructureMap.pdb
+C:\projects\desafio\CamadaAPI\bin\StructureMap.Net4.pdb
+C:\projects\desafio\CamadaAPI\bin\StructureMap.Web.pdb

@@ -1,4 +1,6 @@
-﻿using System.Web.Http;
+﻿using CamadaAPI.DependencyResolution;
+using StructureMap;
+using System.Web.Http;
 using System.Web.Http.Cors;
 
 namespace CamadaAPI
@@ -17,6 +19,9 @@ namespace CamadaAPI
 
             // Web API routes
             config.MapHttpAttributeRoutes();
+
+            IContainer container = IoC.Initialize();
+            GlobalConfiguration.Configuration.DependencyResolver = new StructureMapWebApiDependencyResolver(container);
 
             config.Routes.MapHttpRoute(
                 name: "DefaultApi",

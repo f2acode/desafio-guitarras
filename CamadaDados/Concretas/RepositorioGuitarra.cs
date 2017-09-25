@@ -3,12 +3,13 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Collections.Generic;
 using CamadaComum;
-using CamadaDados.Interfaces;
+using CamadaDados;
 
 namespace CamadaDados
 {
-    public class RepositorioGuitarra
+    public class RepositorioGuitarra : IRepositorioGuitarra
     {
+
         public string inserir(Guitarra guitarra)
         {
             string resp = "";
@@ -135,6 +136,7 @@ namespace CamadaDados
                     while (reader.Read())
                     {
                         Guitarra guitarra = new Guitarra();
+
                         guitarra.id = reader.GetInt32(0);
                         guitarra.nome = reader.GetString(1);
                         guitarra.preco = (decimal)reader.GetValue(2);
@@ -143,6 +145,7 @@ namespace CamadaDados
                         guitarra.urlImagem = reader.GetString(5);
 
                         guitarras.Add(guitarra);
+
                     }
                     reader.NextResult();
                 }

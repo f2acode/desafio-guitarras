@@ -100,8 +100,8 @@ namespace CamadaComum
 
         public Guitarra()
         {
-
         }
+
         public Guitarra(int id, string nome, decimal preco, string descricao, DateTime dataInclusao,
             string urlImagem)
         {
@@ -115,7 +115,6 @@ namespace CamadaComum
         public string[] verificarCampos(Guitarra guitarra)
         {
             string[] campos = new string[2];
-
             VerificadorDeCampos verificadorDeCampos = new VerificadorDeCampos();
 
             campos = verificadorDeCampos.verificarIsNullOrEmpty(guitarra.nome);
