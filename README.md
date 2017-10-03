@@ -13,6 +13,11 @@ Layout pode se utilizar o template padrão do ASP.NET MVC ou um de sua preferenc
 
 ### SOLID
 
+Container para injeção de dependência utilizado: 
+
+[StructureMap](http://structuremap.github.io/)
+[Tutorial](https://www.exceptionnotfound.net/using-automapper-with-structuremap-in-asp-net-web-api/)
+
 #### SRP - Single Responsability Principle
 *"A class should have one, and only one, reason to change"*
 
