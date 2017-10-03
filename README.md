@@ -15,7 +15,7 @@ Layout pode se utilizar o template padrão do ASP.NET MVC ou um de sua preferenc
 
 Container para injeção de dependência utilizado: [StructureMap](http://structuremap.github.io/)
 
-Other options: [Autofac](https://autofac.org/)
+Outras opções: [Autofac](https://autofac.org/)
 
 Tutorial utilizado: [Tutorial](https://www.exceptionnotfound.net/using-automapper-with-structuremap-in-asp-net-web-api/)
 
