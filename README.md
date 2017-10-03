@@ -16,6 +16,7 @@ Layout pode se utilizar o template padrão do ASP.NET MVC ou um de sua preferenc
 Container para injeção de dependência utilizado: 
 
 [StructureMap](http://structuremap.github.io/)
+
 [Tutorial](https://www.exceptionnotfound.net/using-automapper-with-structuremap-in-asp-net-web-api/)
 
 #### SRP - Single Responsability Principle
